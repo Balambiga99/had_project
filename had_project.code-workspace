@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "patient_app",
+			"path": "../../patient_app/patient_app"
+		}
+	],
+	"settings": {}
+}
