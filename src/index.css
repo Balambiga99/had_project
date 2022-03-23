@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* .granted_consent-info {
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid #fafafa;
+}
+.granted_consent-info:hover {
+  box-shadow: 1px 3px 5px rgba(233, 94, 94, 0.1);
+}
+.granted_consent-info h2 {
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 8px;
+} */
+/* table, th, td {
+  border: 1px solid;
+}
+
+td {
+  padding: 10px 80px;
+  align-content: left;
+} */
+th{
+  padding: 10px 20px;
+}
+table{
+  border: 1px solid;
+}
