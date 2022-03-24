@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-
+const episodes = ['Diabetes','Surgery','TMJ']
 class Demo2 extends Component {
   constructor() {
     super();
@@ -9,7 +9,11 @@ class Demo2 extends Component {
   }
 
   render() {
-    return <div>This is Episodes component</div>;
+    return <div>
+      {episodes.map((episode)=>(
+      <ul><li>{episode} </li></ul>
+   ))}
+   </div>;
   }
 }
 
